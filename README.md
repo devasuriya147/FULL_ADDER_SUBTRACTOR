@@ -85,6 +85,7 @@ endmodule
 **Output Timing Waveform**
 ## FULL ADD
 <img width="1216" height="370" alt="Screenshot 2026-03-11 103111" src="https://github.com/user-attachments/assets/560cb72e-eabb-4850-83b1-4790928f5141" />
+
 ## FULL SUB
 <img width="1215" height="265" alt="image" src="https://github.com/user-attachments/assets/8db620c9-1543-4434-9f6e-7481114969be" />
 
