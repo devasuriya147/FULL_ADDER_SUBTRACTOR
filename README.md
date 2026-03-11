@@ -37,9 +37,12 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-**FULL ADDDER**
+
+## FULL ADDDER
 <img width="433" height="398" alt="Screenshot 2026-03-11 103522" src="https://github.com/user-attachments/assets/7e040ebe-6271-43d0-8ab8-4dd5aec9f44d" />
-**FULL SUBRACTOR**
+
+
+## FULL SUBRACTOR
 <img width="448" height="392" alt="Screenshot 2026-03-11 103529" src="https://github.com/user-attachments/assets/f96e4b06-af67-4015-8be8-6970ef697cd4" />
 
 
@@ -72,15 +75,19 @@ endmodule
 
 **RTL Schematic**
 ## FULL ADDER
+
 <img width="1153" height="754" alt="Screenshot 2026-03-11 102818" src="https://github.com/user-attachments/assets/7b55bde2-f153-4127-87d0-ba3f0366a4e3" />
+
 ## FULL SUB
 <img width="1118" height="648" alt="Screenshot 2026-03-11 102833" src="https://github.com/user-attachments/assets/6b852f9f-c341-4957-9508-5a947f7232d8" />
-## FULL SUB
-<img width="1215" height="265" alt="image" src="https://github.com/user-attachments/assets/8db620c9-1543-4434-9f6e-7481114969be" />
+
 
 **Output Timing Waveform**
 ## FULL ADD
 <img width="1216" height="370" alt="Screenshot 2026-03-11 103111" src="https://github.com/user-attachments/assets/560cb72e-eabb-4850-83b1-4790928f5141" />
+## FULL SUB
+<img width="1215" height="265" alt="image" src="https://github.com/user-attachments/assets/8db620c9-1543-4434-9f6e-7481114969be" />
+
 
 **Result:**
 
